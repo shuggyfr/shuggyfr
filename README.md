@@ -1,9 +1,8 @@
 ## Professional Statement
 #Include tools, programming languages later on
 
-Cybersecurity Professional statement
-I am a cybersecurity enthusiast well versed in various programming languages and also bi-lingual. I am an individual with a high level of commitment to tasks at hand, very committed to safeguarding information and preserving privacy for individuals and organizations. I prioritize working efficiently and most of all getting the job done while being very thorough at the same time.
-
+SOC Analyst Professional Statement
+I am a cybersecurity professional with a strong interest in security operations and threat monitoring. Proficient in multiple programming languages and bilingual, I bring analytical skills and attention to detail to the forefront of incident detection and response. I am highly committed to safeguarding information systems, preserving privacy, and ensuring organizational resilience against cyber threats. Within a Security Operations Center environment, I prioritize efficiency, accuracy, and thoroughness—whether triaging alerts, investigating anomalies, or supporting incident response. My goal is to contribute to a proactive defense posture by identifying, analyzing, and mitigating threats in real time.
 
 
 <!--
