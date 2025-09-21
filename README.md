@@ -6,7 +6,6 @@ I am a cybersecurity professional with a strong interest in security operations 
 
 
 
-**shuggyfr/shuggyfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 1. Topology Setup
 	•	Built the network topology with 3 autonomous systems (AS100, AS200, OSPF Area 1 & Backbone).
